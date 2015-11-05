@@ -1,2 +1,5 @@
-# iframe_shortcode
-Wordpress plugin for iframes
+#docs
+
+```
+[iframe src=¨website url¨ error=¨add error text¨]
+```
